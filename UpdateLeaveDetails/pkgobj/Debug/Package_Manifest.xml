@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5a59c955-c6cb-4e81-85ed-686d3a03c750" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="UpdateLeaveDetails.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="UpdateLeaveDetails_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

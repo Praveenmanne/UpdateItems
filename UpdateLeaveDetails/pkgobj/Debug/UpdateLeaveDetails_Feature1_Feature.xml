@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="74bbf7c9-8eb6-4b0c-8346-6644d27f069b" Scope="Web" Title="UpdateLeaveDetails Feature1">
+  <ElementManifests>
+    <ElementManifest Location="UpdateLeaveDetail\Elements.xml" />
+  </ElementManifests>
+</Feature>

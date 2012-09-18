@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="115">
+      <Receiver>
+        <Name>UpdateLeaveDetailItemUpdated</Name>
+        <Type>ItemUpdated</Type>
+        <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+        <Class>UpdateLeaveDetails.UpdateLeaveDetail.UpdateLeaveDetail</Class>
+        <SequenceNumber>10000</SequenceNumber>
+        <Synchronization >Synchronous</Synchronization>
+      </Receiver>
+
+  </Receivers>
+</Elements>
